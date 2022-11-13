@@ -1,0 +1,78 @@
+.sec {
+    width: 400px;
+    height: 450px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: #bdd6e7;
+    margin-top: 20px;
+    margin-left: 150px;
+}
+
+h1 {    
+    font-family: 'Zen Antique', sans-serif;
+    font-size: 40px;
+}
+
+.sec h1 {
+    text-align: left;
+    margin-top: 20px;
+}
+
+ul {
+    font-family: 'Philosopher', sans-serif;
+    text-align: left;
+    font-size: 25px;
+}
+
+#name {
+    list-style-image: url("../img/woman.png");
+}
+
+#major {
+    list-style-image: url("../img/school.png");
+}
+
+#interest {
+    list-style-image: url("../img/badminton.png");
+}
+
+#personality {
+    list-style-image: url("../img/magnifying.png");
+}
+
+.myphoto {
+    width: 400px;
+    height: 470px;
+    padding: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    margin-left: 130px;
+    border-radius: 20px;
+    background-color: #bdd6e7;
+}
+
+.myphoto img {
+    width: 240px;
+    height: 250px;
+    margin: 10px 80px 15px;
+    border-radius: 25%;
+}
+
+.myphoto img:hover {
+    box-shadow: 0 0 3px 3px rgba(0, 140, 186, 0.5);
+}
+
+.hr {
+    width:100%;
+    height:0;
+    border-bottom:rgb(49, 74, 83) 3px dashed;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Zen Antique', sans-serif;
+}
+.myphoto p {
+    text-indent: 2em;
+}

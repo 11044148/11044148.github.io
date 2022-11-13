@@ -1,0 +1,66 @@
+.bski {
+    width: 1100px;
+    height: 80px;
+    padding: 5px;
+    border-radius: 20px;
+    background-color: #bccfdb;
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+.bski h1 {
+    margin-top: 5px;
+    margin-left: 500px;
+}
+
+.sski {
+    width: 800px;
+    height: 460px;
+    padding: 5px;
+    border-radius: 20px;
+    background-color: #bdd6e7;
+    margin: 20px 0px 20px 210px;
+}
+
+.sski ul {
+    margin-left: 30px;
+}
+
+.contain {
+  width: 90%;
+  background-color: rgb(236, 234, 234);
+  border-radius: 30px;
+  margin-bottom: 15px;
+  box-sizing: border-box
+}
+
+.ski {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.html {
+    width: 70%; 
+    background-color: #0f5ab0ac;
+}
+
+.Python {
+    width: 60%; 
+    background-color: #1f7ecb90;
+}
+
+.WORD {
+    width: 80%; 
+    background-color: #8b97c1;
+}
+
+.PPT {
+    width: 80%; 
+    background-color: #8b97c1;
+}
+
+#html, #Python, #WORD, #PPT {
+    list-style-image: url("../img/star.png");
+}

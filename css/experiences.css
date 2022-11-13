@@ -1,0 +1,87 @@
+.bexp {
+    width: 1100px;
+    height: 80px;
+    padding: 5px;
+    border-radius: 20px;
+    background-color: #bccfdb;
+    margin-top: 5px;
+    margin-left: 60px;
+}
+
+.bexp h1 {
+    margin-top: 5px;
+    margin-left: 450px;
+}
+
+.sexp1, .sexp2, .sexp3 {
+    margin-top: 22px;
+    margin-left: 30px;
+}
+
+.sexp1 img, .sexp2 img, .sexp3 img {
+    border-radius: 3%;
+}
+
+.sexp1 img {
+    width: 300px;
+    height: 380px;
+}
+
+.sexp1 img:hover {
+    box-shadow: 0 0 3px 3px rgba(103, 70, 137, 0.733);
+}
+
+.sexp2 img {
+    width: 450px;
+    height: 300px;
+}
+
+.sexp2 img:hover {
+    box-shadow: 0 0 3px 3px rgba(63, 70, 72, 0.644);
+}
+
+.sexp3 img {
+    width: 380px;
+    height: 380px;
+}
+
+.sexp3 img:hover {
+    box-shadow: 0 0 3px 3px rgba(179, 158, 125, 0.918);
+}
+
+.sexp1 .polaroid, .sexp2 .polaroid, .sexp3 .polaroid {
+    height: 705px;
+    background-color: rgb(242, 247, 253);
+    border-radius: 3%;
+}
+
+.sexp1 .polaroid {
+    width: 300px;
+}
+
+.sexp2 .polaroid {
+    width: 450px;
+}
+
+.sexp3 .polaroid {
+    width: 380px;
+}
+
+.container1 p {
+    margin-left: 110px;
+}
+
+.container2 p {
+    margin-left: 160px;
+}
+
+.container3 p {
+    margin-left: 90px;
+}
+
+.text {
+    text-indent: 2em;
+    font-size: 20px;
+    font-family: 'Zen Antique', sans-serif;
+    padding: 15px;
+}
