@@ -1,20 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 body {
     background-color: #DFEBF4;
 }
 
 header {
     padding: 10px;
+    height: 300px;
+    line-height: 2;
     text-align: center;
     background-image: url("../img/IMG_8143.jpg");
     background-size: cover;
 }
 
 article {
+    width: 1200px;
+    margin: auto;
     display: flex;
-    flex-wrap: wrap;
 }
 
 section {
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
     color: rgb(84, 73, 73);
 }
 

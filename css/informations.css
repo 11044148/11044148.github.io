@@ -1,11 +1,10 @@
 .sec {
-    width: 400px;
+    width: 500px;
     height: 450px;
     padding: 20px;
     border-radius: 20px;
     background-color: #bdd6e7;
-    margin-top: 20px;
-    margin-left: 150px;
+    padding-left: 100px;
 }
 
 h1 {    
@@ -14,14 +13,12 @@ h1 {
 }
 
 .sec h1 {
-    text-align: left;
-    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 ul {
     font-family: 'Philosopher', sans-serif;
-    text-align: left;
-    font-size: 25px;
+    font-size: 35px;
 }
 
 #name {
@@ -44,8 +41,6 @@ ul {
     width: 400px;
     height: 470px;
     padding: 15px;
-    display: flex;
-    flex-wrap: wrap;
     margin-top: 20px;
     margin-left: 130px;
     border-radius: 20px;
@@ -71,6 +66,7 @@ ul {
 
 p {
     font-size: 20px;
+    text-align: justify;
     font-family: 'Zen Antique', sans-serif;
 }
 .myphoto p {
